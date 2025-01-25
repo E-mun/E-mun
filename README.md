@@ -3,7 +3,7 @@
 Jan 25th, 2025
 - 🌱 Just tackled a basic CLI to-do app in Python
 - ⚡ Currently finishing a JavaScript course
-- 🔭 Looking forward to startig a longer, text-based adventure game in Python
+- 🔭 Looking forward to starting a longer, text-based adventure game in Python
 
 
 <!--
