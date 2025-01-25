@@ -1,4 +1,6 @@
 ## EMUN - Old Engineer turned Junior Developer
+
+Jan 25th, 2025
 - 🌱 Just tackled a basic CLI to-do app in Python
 - ⚡ Currently finishing a JavaScript course
 - 🔭 Looking forward to startig a longer, text-based adventure game in Python
