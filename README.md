@@ -1,4 +1,4 @@
-## Hi there - I'm an ex-mechanical engineer turned junior developer enjoying learning everything I can about full-stack development. 
+## EMUN - Old Engineer turned Junior Developer
 - 🌱 Just tackled a basic CLI to-do app in Python
 - ⚡ Currently finishing a JavaScript course
 - 🔭 Looking forward to startig a longer, text-based adventure game in Python
