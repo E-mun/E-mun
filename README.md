@@ -1,9 +1,9 @@
-## EMUN - Old Engineer turned Junior Developer
+## EMUN
 
 Jan 25th, 2025
-- 🌱 Just tackled a basic CLI to-do app in Python
-- ⚡ Currently finishing a JavaScript course
-- 🔭 Looking forward to starting a longer, text-based adventure game in Python
+- 🌱 Just tackled a procedurally-generated and dynamically updated adventure game
+- ⚡ Currently finishing a Front-End course
+- 🔭 Looking forward to starting a dynamic website project in February
 
 
 <!--
