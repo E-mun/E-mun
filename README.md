@@ -1,6 +1,6 @@
 ## EMUN
 
-Jan 25th, 2025
+Feb 10th, 2025
 - 🌱 Just tackled a procedurally-generated and dynamically updated adventure game
 - ⚡ Currently finishing a Front-End course
 - 🔭 Looking forward to starting a dynamic website project in February
